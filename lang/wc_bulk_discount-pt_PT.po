@@ -1,0 +1,196 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Bulk Discount v2.1.1\n"
+"Report-Msgid-Bugs-To: jpBenfic@<jp.jp@sapo.pt>\n"
+"POT-Creation-Date: 2013-10-09 19:17+0100\n"
+"PO-Revision-Date: 2013-11-14 19:41:09+0000\n"
+"Last-Translator: jpBenfica <jp.jp@sapo.pt>\n"
+"Language-Team: Portuguese <jp.jp@sapo.pt>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: woocommerce-bulk-discount.php:45
+#: woocommerce-bulk-discount.php:421
+#: woocommerce-bulk-discount.php:675
+#@ wc_bulk_discount
+msgid "Bulk Discount"
+msgstr "Desconto de quantidade"
+
+#: woocommerce-bulk-discount.php:95
+#@ woocommerce
+msgid "Settings"
+msgstr "Settings"
+
+#: woocommerce-bulk-discount.php:166
+#, php-format
+#@ wc_bulk_discount
+msgid "%s%% bulk discount applied!"
+msgstr "%s%% desconto de quantidade aplicado!"
+
+#: woocommerce-bulk-discount.php:202
+#: woocommerce-bulk-discount.php:272
+#, php-format
+#@ wc_bulk_discount
+msgid "Incl. %s discount"
+msgstr "Inclui %s desconto"
+
+#: woocommerce-bulk-discount.php:508
+#@ wc_bulk_discount
+msgid "Optionally enter bulk discount information that will be visible on the product page."
+msgstr "Opcionalmente, insira as informações de desconto de quantidade que serão visíveis na página do produto."
+
+#: woocommerce-bulk-discount.php:526
+#@ wc_bulk_discount
+msgid "Quantity (min.)"
+msgstr "Quantidade (min.)"
+
+#: woocommerce-bulk-discount.php:526
+#@ wc_bulk_discount
+msgid "Enter the minimal quantity for which the discount applies."
+msgstr "Introduza a quantidade mínima para a qual se aplica o desconto."
+
+#: woocommerce-bulk-discount.php:531
+#, php-format
+#@ wc_bulk_discount
+msgid "Discount (%s)"
+msgstr "Desconto (%s)"
+
+#: woocommerce-bulk-discount.php:531
+#, php-format
+#@ wc_bulk_discount
+msgid "Enter the flat discount in %s."
+msgstr "Inserir o desconto fixo em %s."
+
+#: woocommerce-bulk-discount.php:536
+#@ wc_bulk_discount
+msgid "Discount (%)"
+msgstr "Desconto (%)"
+
+#: woocommerce-bulk-discount.php:536
+#@ wc_bulk_discount
+msgid "Enter the discount in percents (Allowed values: 0 to 100)."
+msgstr "Insira o desconto em porcentagens (Valores permitidos: 0 a 100)."
+
+#: woocommerce-bulk-discount.php:675
+#@ wc_bulk_discount
+msgid "The following options are specific to product bulk discount."
+msgstr "As opções a seguir são específicas para o desconto de quantidade de produto."
+
+#: woocommerce-bulk-discount.php:675
+#@ wc_bulk_discount
+msgid "After changing the settings, it is recommended to clear all sessions in WooCommerce &gt; System Status &gt; Tools."
+msgstr "Depois de alterar as configurações, recomenda-se limpar todas as sessões do WooCommerce &gt; Estado do Sistema &gt; Ferramentas."
+
+#: woocommerce-bulk-discount.php:507
+#@ wc_bulk_discount
+msgid "Bulk Discount enabled"
+msgstr "Desconto de Quantidade habilitado"
+
+#: woocommerce-bulk-discount.php:687
+#@ wc_bulk_discount
+msgid "Discount Type"
+msgstr "Tipo de Desconto"
+
+#: woocommerce-bulk-discount.php:689
+#, php-format
+#@ wc_bulk_discount
+msgid "Select the type of discount. Percentage Discount deducts amount of %% from price while Flat Discount deducts fixed amount in %s"
+msgstr "Selecione o tipo de desconto. Desconto Percentual deduz a quantidade de %% do preço enquanto o Desconto Fixo deduz o montante fixo em %s"
+
+#: woocommerce-bulk-discount.php:696
+#@ wc_bulk_discount
+msgid "Percentage Discount"
+msgstr "Desconto Percentual"
+
+#: woocommerce-bulk-discount.php:697
+#@ wc_bulk_discount
+msgid "Flat Discount"
+msgstr "Desconto Fixo"
+
+#: woocommerce-bulk-discount.php:702
+#@ wc_bulk_discount
+msgid "Treat product variations separately"
+msgstr "Tratar as variações do produto separadamente"
+
+#: woocommerce-bulk-discount.php:711
+#@ wc_bulk_discount
+msgid "Show discount information next to cart item price"
+msgstr "Mostrar informação de desconto junto ao preço do item no carrinho"
+
+#: woocommerce-bulk-discount.php:713
+#@ wc_bulk_discount
+msgid "Applies only to percentage discount."
+msgstr "Aplica-se somente ao desconto percentual."
+
+#: woocommerce-bulk-discount.php:720
+#@ wc_bulk_discount
+msgid "Show discount information next to item subtotal price"
+msgstr "Mostrar informação de desconto junto ao item preço subtotal"
+
+#: woocommerce-bulk-discount.php:728
+#@ wc_bulk_discount
+msgid "Show discount information next to item subtotal price in order history"
+msgstr "Mostrar informação de desconto junto ao item preço subtotal no histórico de pedidos"
+
+#: woocommerce-bulk-discount.php:730
+#@ wc_bulk_discount
+msgid "Includes showing discount in order e-mails and invoices."
+msgstr "Mostra o desconto em pedidos de e-mails e faturas."
+
+#: woocommerce-bulk-discount.php:737
+#@ wc_bulk_discount
+msgid "Optionally enter information about discounts visible on cart page."
+msgstr "Opcionalmente, insira as informações sobre descontos visíveis na página do carrinho."
+
+#: woocommerce-bulk-discount.php:744
+#@ wc_bulk_discount
+msgid "Optionally change the CSS for old price on cart before discounting."
+msgstr "Opcionalmente altere o CSS para preço antigo no carrinho antes de descontar."
+
+#: woocommerce-bulk-discount.php:752
+#@ wc_bulk_discount
+msgid "Optionally change the CSS for new price on cart after discounting."
+msgstr "Opcionalmente, altere o CSS para novo preço no carrinho após descontar."
+
+#: woocommerce-bulk-discount.php:458
+#@ wc_bulk_discount
+msgid "Please fill in the current line before adding new line."
+msgstr "Por favor, preencha a linha atual antes de adicionar uma nova linha."
+
+#: woocommerce-bulk-discount.php:508
+#@ wc_bulk_discount
+msgid "Bulk discount special offer text in product description"
+msgstr "Desconto de quantidade texto com oferta especial na descrição do produto"
+
+#: woocommerce-bulk-discount.php:520
+#@ wc_bulk_discount
+msgid "Add discount line"
+msgstr "Adicionar linha de desconto"
+
+#: woocommerce-bulk-discount.php:522
+#: woocommerce-bulk-discount.php:552
+#@ wc_bulk_discount
+msgid "Remove last discount line"
+msgstr "Remover a última linha de desconto"
+
+#: woocommerce-bulk-discount.php:678
+#@ wc_bulk_discount
+msgid "Bulk Discount globally enabled"
+msgstr "Desconto de quantidade ativado globalmente"
+
+#: woocommerce-bulk-discount.php:704
+#@ wc_bulk_discount
+msgid "You need to have this option unchecked to apply discounts to variations by shared quantity."
+msgstr "Você precisa ter esta opção desmarcada para aplicar descontos para variações por quantidade compartilhada."
+

@@ -1,0 +1,19 @@
+ul.wc-tabs li.bulkdiscount_options a {
+	padding: 5px 5px 5px 28px !important;
+}
+
+#bulkdiscount_product_data a.button-secondary {
+    margin: 5px 10px;
+}
+
+#bulkdiscount_product_data textarea {
+    width: 60% !important;
+}
+
+#bulkdiscount_product_data .even {
+	background-color: rgba(0,0,0,0.1);
+}
+
+#bulkdiscount_product_data .odd {
+	background-color: rgba(0,0,0,0.0);
+}

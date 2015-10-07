@@ -1,0 +1,183 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Bulk Discount\n"
+"POT-Creation-Date: 2013-11-15 18:10+0100\n"
+"PO-Revision-Date: 2013-11-15 18:12+0100\n"
+"Last-Translator: \n"
+"Language-Team: Rene Puchinger <info@renepuchinger.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-"
+"discount\n"
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:45
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:421
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:675
+msgid "Bulk Discount"
+msgstr "Množstevní sleva"
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:95
+msgid "Settings"
+msgstr "Nastavení"
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:166
+#, php-format
+msgid "%s%% bulk discount applied!"
+msgstr "Uplatněna množstevní sleva %s%%."
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:202
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:272
+#, php-format
+msgid "Incl. %s discount"
+msgstr "Zahrnuje slevu %s"
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:458
+msgid "Please fill in the current line before adding new line."
+msgstr "Vyplňte nejprve aktuální řádek."
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:507
+msgid "Bulk Discount enabled"
+msgstr "Množstevní sleva aktivní"
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:508
+#, fuzzy
+msgid "Bulk discount special offer text in product description"
+msgstr "Informace o množstevní slevě v popisu produktu"
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:508
+msgid ""
+"Optionally enter bulk discount information that will be visible on the "
+"product page."
+msgstr ""
+"Zadejte popisek o slevách, který se zobrazí na stránce produktu (nepovinné)."
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:520
+msgid "Add discount line"
+msgstr "Přidat nový řádek"
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:522
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:552
+msgid "Remove last discount line"
+msgstr "Odebrat poslední řádek"
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:526
+msgid "Quantity (min.)"
+msgstr "Množství (min.)"
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:526
+#, fuzzy
+msgid "Enter the minimal quantity for which the discount applies."
+msgstr "Zadejte nejmenší množství pro které se uplatní sleva."
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:531
+#, php-format
+msgid "Discount (%s)"
+msgstr "Sleva (%s)"
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:531
+#, php-format
+msgid "Enter the flat discount in %s."
+msgstr "Zadejte rovnou slevu v %s."
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:536
+msgid "Discount (%)"
+msgstr "Sleva (%)"
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:536
+msgid "Enter the discount in percents (Allowed values: 0 to 100)."
+msgstr "Zadejte slevu v procentech (Povolené hodnoty: 0 až 100)."
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:675
+msgid "The following options are specific to product bulk discount."
+msgstr "Následující možnosti slouží pro nastavení množstevní slevy."
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:675
+msgid ""
+"After changing the settings, it is recommended to clear all sessions in "
+"WooCommerce &gt; System Status &gt; Tools."
+msgstr ""
+"Po změně nastavení se doporučuje vymazat všechny sessions v nastavení E-shop "
+"&gt; Stav systému &gt; Nástroje."
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:678
+msgid "Bulk Discount globally enabled"
+msgstr "Množstevní sleva je globálně aktivní"
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:687
+msgid "Discount Type"
+msgstr "Typ slevy"
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:689
+#, php-format
+msgid ""
+"Select the type of discount. Percentage Discount deducts amount of %% from "
+"price while Flat Discount deducts fixed amount in %s"
+msgstr ""
+"Vyberte typ slevy. Při procentní slevě se odečítá z částky relativně v "
+"procentech. Při rovné slevě se odečítá pevná částka v %s od celkové ceny za "
+"položku."
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:696
+msgid "Percentage Discount"
+msgstr "Procentní sleva"
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:697
+msgid "Flat Discount"
+msgstr "Rovná sleva"
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:702
+msgid "Treat product variations separately"
+msgstr "Jednat s produktovými variacemi zvlášť"
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:704
+msgid ""
+"You need to have this option unchecked to apply discounts to variations by "
+"shared quantity."
+msgstr ""
+"Pokud chcete aplikovat slevy na produktové variace podle sdíleného "
+"množství , tato položka musí být vypnuta."
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:711
+msgid "Show discount information next to cart item price"
+msgstr "Zobrazit informaci o slevě vedle ceny u položky v košíku"
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:713
+msgid "Applies only to percentage discount."
+msgstr "Platí pouze pro procentní slevu."
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:720
+msgid "Show discount information next to item subtotal price"
+msgstr "Zobrazit informaci o slevě vedle ceny u mezisoučtu  v košíku"
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:728
+msgid "Show discount information next to item subtotal price in order history"
+msgstr ""
+"Zobrazit informaci o slevě vedle ceny u mezisoučtu v historii objednávek"
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:730
+msgid "Includes showing discount in order e-mails and invoices."
+msgstr "Zahrnuje zobrazení slevy v e-mailech a fakturách."
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:737
+msgid "Optionally enter information about discounts visible on cart page."
+msgstr ""
+"Zadejte popisek o slevách, který se zobrazí na stránce košíku (nepovinné)."
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:744
+msgid "Optionally change the CSS for old price on cart before discounting."
+msgstr "Volitelně zadejte CSS pro formát ceny před slevou."
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:752
+msgid "Optionally change the CSS for new price on cart after discounting."
+msgstr "Volitelně zadejte CSS pro formát ceny po slevě."
+
+#, fuzzy
+#~ msgid "Discount ("
+#~ msgstr "Sleva (%)"
+
+#~ msgid "Eligible for %d%% discount!"
+#~ msgstr "Uplatněna %d%% sleva!"

@@ -1,0 +1,155 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Bulk Discount\n"
+"POT-Creation-Date: 2013-10-06 20:36+0100\n"
+"PO-Revision-Date: 2013-10-15 14:40+0100\n"
+"Last-Translator: \n"
+"Language-Team: Rene Puchinger <info@renepuchinger.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-"
+"discount\n"
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:48
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:387
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:586
+msgid "Bulk Discount"
+msgstr "Mängdrabatt"
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:98
+msgid "Settings"
+msgstr "Inställningar"
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:163
+#, php-format
+msgid "%s%% bulk discount applied!"
+msgstr "%s%% mängdrabatt tillämpas!"
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:194
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:260
+#, php-format
+msgid "Incl. %s discount"
+msgstr "efter %s rabatt"
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:433
+msgid "Bulk discount info in product description"
+msgstr "Mängdrabatt info i produktbeskrivningen"
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:433
+msgid ""
+"Optionally enter bulk discount information that will be visible on the "
+"product page."
+msgstr ""
+"Frivilligt! Ange information om mängdrabatten som kommer att vara synligt på "
+"produktsidan."
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:447
+msgid "Quantity (min.)"
+msgstr "Antal (min.)"
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:447
+msgid "Enter the minimal quantity for which the discount applies."
+msgstr "Ange minsta antalet som mängdrabatten gäller."
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:449
+#, php-format
+msgid "Discount (%s)"
+msgstr "Rabatt (%s)"
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:449
+#, php-format
+msgid "Enter the flat discount in %s."
+msgstr "Ange en fast rabatt i %s."
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:451
+msgid "Discount (%)"
+msgstr "Rabatt (%)"
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:451
+msgid "Enter the discount in percents (Allowed values: 0 to 100)."
+msgstr "Ange rabatten i procent (Tillåtna värden: 0 to 100)."
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:586
+msgid "The following options are specific to product bulk discount."
+msgstr "Följande val är specifika för produktens mängdrabatt."
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:586
+msgid ""
+"After changing the settings, it is recommended to clear all sessions in "
+"WooCommerce &gt; System Status &gt; Tools."
+msgstr ""
+"Efter att du ändrat inställningarna är det rekommenderat att rensa alla "
+"sessioner i WooCommerce &gt; System Status &gt; Tools."
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:589
+msgid "Bulk Discount enabled"
+msgstr "Mängdrabatt aktiverat"
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:598
+msgid "Discount Type"
+msgstr "Rabatt-typ"
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:600
+#, php-format
+msgid ""
+"Select the type of discount. Percentage Discount deducts amount of %% from "
+"price while Flat Discount deducts fixed amount in %s"
+msgstr ""
+"Välj typ av rabatt. Rabatt i procent drar av summan av %% från priset medan "
+"fast rabatt drar av en fast summa i %s"
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:607
+msgid "Percentage Discount"
+msgstr "Rabatt i procent"
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:608
+msgid "Flat Discount"
+msgstr "Fast rabatt"
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:613
+msgid "Treat product variations separately"
+msgstr "Behandla produkters variation separat"
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:615
+msgid ""
+"You need to have this option unchecked to handle discounts on product "
+"variations as a whole."
+msgstr ""
+"Du måste ha detta val \"unchecked\" för att hantera rabatter på variations "
+"produkter som en helhet."
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:622
+msgid "Show discount information next to cart item price"
+msgstr "Visa rabattinformation bredvid priset i kassan"
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:624
+msgid "Applies only to percentage discount."
+msgstr "Används endast för rabatt i procent"
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:631
+msgid "Show discount information next to item subtotal price"
+msgstr "Visa rabattinformationen bredvid subtotala priset"
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:639
+msgid "Show discount information next to item subtotal price in order history"
+msgstr "Visa rabattinformationen bredvid subtotala priset i orderhistoriken"
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:641
+msgid "Includes showing discount in order e-mails and invoices."
+msgstr "Inkluderar att visa rabatten i ordermailet samt på kvittot"
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:648
+msgid "Optionally enter information about discounts visible on cart page."
+msgstr "Frivilligt! Ange information om rabatten som visas på sidan för kassa."
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:655
+msgid "Optionally change the CSS for old price on cart before discounting."
+msgstr "Frivilligt ändra CSS för gamla priset i kassan innan avdragen rabatt"
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:663
+msgid "Optionally change the CSS for new price on cart after discounting."
+msgstr "Frivilligt ändra CSS för nya priset i kassan efter avdragen rabatt"

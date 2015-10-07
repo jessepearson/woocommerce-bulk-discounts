@@ -1,0 +1,184 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Bulk Discount\n"
+"POT-Creation-Date: 2013-11-12 19:12+0100\n"
+"PO-Revision-Date: 2013-11-12 19:13+0100\n"
+"Last-Translator: \n"
+"Language-Team: Rene Puchinger <info@renepuchinger.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-"
+"discount\n"
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:45
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:427
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:681
+msgid "Bulk Discount"
+msgstr "Bulk Discount"
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:95
+msgid "Settings"
+msgstr "Settings"
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:166
+#, php-format
+msgid "%s%% bulk discount applied!"
+msgstr "%s%% bulk discount applied!"
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:202
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:278
+#, php-format
+msgid "Incl. %s discount"
+msgstr "Incl. %s discount"
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:464
+msgid "Please fill in the current line before adding new line."
+msgstr "Please fill in the current line before adding new line."
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:513
+msgid "Bulk Discount enabled"
+msgstr "Bulk Discount enabled"
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:514
+msgid "Bulk discount special offer text in product description"
+msgstr "Bulk discount special offer text in product description"
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:514
+msgid ""
+"Optionally enter bulk discount information that will be visible on the "
+"product page."
+msgstr ""
+"Optionally enter bulk discount information that will be visible on the "
+"product page."
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:526
+msgid "Add discount line"
+msgstr "Add discount line"
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:528
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:558
+msgid "Remove last discount line"
+msgstr "Remove last discount line"
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:532
+msgid "Quantity (min.)"
+msgstr "Quantity (min.)"
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:532
+msgid "Enter the minimal quantity for which the discount applies."
+msgstr "Enter the minimal quantity for which the discount applies."
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:537
+#, php-format
+msgid "Discount (%s)"
+msgstr "Discount (%s)"
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:537
+#, php-format
+msgid "Enter the flat discount in %s."
+msgstr "Enter the flat discount in %s."
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:542
+msgid "Discount (%)"
+msgstr "Discount (%)"
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:542
+msgid "Enter the discount in percents (Allowed values: 0 to 100)."
+msgstr "Enter the discount in percents (Allowed values: 0 to 100)."
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:681
+msgid "The following options are specific to product bulk discount."
+msgstr "The following options are specific to product bulk discount."
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:681
+msgid ""
+"After changing the settings, it is recommended to clear all sessions in "
+"WooCommerce &gt; System Status &gt; Tools."
+msgstr ""
+"After changing the settings, it is recommended to clear all sessions in "
+"WooCommerce &gt; System Status &gt; Tools."
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:684
+msgid "Bulk Discount globally enabled"
+msgstr "Bulk Discount globally enabled"
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:693
+msgid "Discount Type"
+msgstr "Discount Type"
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:695
+#, php-format
+msgid ""
+"Select the type of discount. Percentage Discount deducts amount of %% from "
+"price while Flat Discount deducts fixed amount in %s"
+msgstr ""
+"Select the type of discount. Percentage Discount deducts amount of %% from "
+"price while Flat Discount deducts fixed amount in %s"
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:702
+msgid "Percentage Discount"
+msgstr "Percentage Discount"
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:703
+msgid "Flat Discount"
+msgstr "Flat Discount"
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:708
+msgid "Treat product variations separately"
+msgstr "Treat product variations separately"
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:710
+msgid ""
+"You need to have this option unchecked to apply discounts to variations by "
+"shared quantity."
+msgstr ""
+"You need to have this option unchecked to apply discounts to variations by "
+"shared quantity."
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:717
+msgid "Treat product variations as one product"
+msgstr "Treat product variations as one product"
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:719
+msgid ""
+"You need to have this option checked to apply discounts to variations as if "
+"they were one product. Applies only if Flat Discount Type is selected."
+msgstr ""
+"You need to have this option checked to apply discounts to variations as if "
+"they were one product. Applies only if Flat Discount Type is selected."
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:726
+msgid "Show discount information next to cart item price"
+msgstr "Show discount information next to cart item price"
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:728
+msgid "Applies only to percentage discount."
+msgstr "Applies only to percentage discount."
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:735
+msgid "Show discount information next to item subtotal price"
+msgstr "Show discount information next to item subtotal price"
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:743
+msgid "Show discount information next to item subtotal price in order history"
+msgstr "Show discount information next to item subtotal price in order history"
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:745
+msgid "Includes showing discount in order e-mails and invoices."
+msgstr "Includes showing discount in order e-mails and invoices."
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:752
+msgid "Optionally enter information about discounts visible on cart page."
+msgstr "Optionally enter information about discounts visible on cart page."
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:759
+msgid "Optionally change the CSS for old price on cart before discounting."
+msgstr "Optionally change the CSS for old price on cart before discounting."
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:767
+msgid "Optionally change the CSS for new price on cart after discounting."
+msgstr "Optionally change the CSS for new price on cart after discounting."

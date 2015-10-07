@@ -1,0 +1,169 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Bulk Discount\n"
+"POT-Creation-Date: 2013-10-06 20:36+0100\n"
+"PO-Revision-Date: 2014-09-05 14:44-0430\n"
+"Last-Translator: \n"
+"Language-Team: Rene Puchinger <info@renepuchinger.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"Language: es_ES\n"
+"X-Poedit-SearchPath-0: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-"
+"discount\n"
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:48
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:387
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:586
+msgid "Bulk Discount"
+msgstr "Descuento Masivo"
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:98
+msgid "Settings"
+msgstr "Opciones"
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:163
+#, php-format
+msgid "%s%% bulk discount applied!"
+msgstr "%s%% descuento masivo aplicado!"
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:194
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:260
+#, php-format
+msgid "Incl. %s discount"
+msgstr "Incluye %s de descuento"
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:433
+msgid "Bulk discount info in product description"
+msgstr "Descuento masivo en la descripción del producto"
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:433
+msgid ""
+"Optionally enter bulk discount information that will be visible on the "
+"product page."
+msgstr ""
+"De manera opcional, ingresa información de los descuentos para ser mostrada "
+"en la pagina de productos."
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:447
+msgid "Quantity (min.)"
+msgstr "Cantidad (min.)"
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:447
+msgid "Enter the minimal quantity for which the discount applies."
+msgstr "Ingrese la cantidad minima con la cual aplicaria el descuento."
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:449
+#, php-format
+msgid "Discount (%s)"
+msgstr "Descuento (%s)"
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:449
+#, php-format
+msgid "Enter the flat discount in %s."
+msgstr "Ingrese el descuento fijo en %s."
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:451
+msgid "Discount (%)"
+msgstr "Descuento (%)"
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:451
+msgid "Enter the discount in percents (Allowed values: 0 to 100)."
+msgstr "Ingrese el descuento en porcentajes (Valores: 0 a 100)."
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:586
+msgid "The following options are specific to product bulk discount."
+msgstr ""
+"Las opciones mostradas a continuación son para especificar el descuento "
+"masivo del producto actual."
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:586
+msgid ""
+"After changing the settings, it is recommended to clear all sessions in "
+"WooCommerce &gt; System Status &gt; Tools."
+msgstr ""
+"Después de cambiar las opciones, se recomienda limpiar todas las sesiones en "
+"WooCommerce  &gt; Estado del sistema &gt; Herramientas."
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:589
+msgid "Bulk Discount enabled"
+msgstr "Descuento masivo activo"
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:598
+msgid "Discount Type"
+msgstr "Tipo de descuento"
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:600
+#, php-format
+msgid ""
+"Select the type of discount. Percentage Discount deducts amount of %% from "
+"price while Flat Discount deducts fixed amount in %s"
+msgstr ""
+"Selecciona el tipo de descuento. Descuentos por porcentajes reducen montos "
+"de %% del precio, mientras que el Descuento Fijo reduce montos fijos en %s"
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:607
+msgid "Percentage Discount"
+msgstr "Descuento por porcentaje"
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:608
+msgid "Flat Discount"
+msgstr "Descuento Fijo"
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:613
+msgid "Treat product variations separately"
+msgstr "Tratar las variaciones de productos por separado"
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:615
+msgid ""
+"You need to have this option unchecked to handle discounts on product "
+"variations as a whole."
+msgstr ""
+"Necesitas tener esta opción desmarcada para administrar los descuentos en "
+"las variaciones de productos como un todo."
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:622
+msgid "Show discount information next to cart item price"
+msgstr ""
+"Mostrar la información del descuento justo al lado del precio del item del "
+"carro de compra"
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:624
+msgid "Applies only to percentage discount."
+msgstr "Aplica solo al descuento por porcentaje"
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:631
+msgid "Show discount information next to item subtotal price"
+msgstr ""
+"Muestra la información del descuento al lado del subtotal (monto) del item"
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:639
+msgid "Show discount information next to item subtotal price in order history"
+msgstr ""
+"Muestra la información del descuento al lado del subtotal del item en el "
+"historial de pedidos"
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:641
+msgid "Includes showing discount in order e-mails and invoices."
+msgstr "Incluye el mostrar el descuento en el correo del pedido y en facturas"
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:648
+msgid "Optionally enter information about discounts visible on cart page."
+msgstr ""
+"De manera opcional, ingresa información acerca de los descuentos para ser "
+"visible en la pagina de carro"
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:655
+msgid "Optionally change the CSS for old price on cart before discounting."
+msgstr ""
+"De manera opcional, cambia el CSS para el precio viejo en el carro antes del "
+"descuento"
+
+#: c:/DEVELOP/www/wp-content/plugins/woocommerce-bulk-discount/woocommerce-bulk-discount.php:663
+msgid "Optionally change the CSS for new price on cart after discounting."
+msgstr ""
+"De manera opcional, cambia el CSS para el precio viejo en el carro después "
+"del descuento"
